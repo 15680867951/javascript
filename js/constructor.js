@@ -13,7 +13,3 @@ houyi.attack('远程')
 console.log(lianpo)
 console.log(houyi)
 console.log(typeof houyi)
-console.log('------------------------')
-for( k in houyi){
-    console.log(houyi[k])
-}
