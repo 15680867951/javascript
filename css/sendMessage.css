@@ -1,0 +1,16 @@
+button{
+    width:50px;
+    height: 22px;
+}
+input,button{
+    display: block;
+    float: left;
+}
+input{
+    width:150px;
+    height: 16px;
+}
+.contenter{
+    margin:0 auto;
+    width:208px;
+}
